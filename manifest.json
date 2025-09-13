@@ -1,6 +1,6 @@
 {
-    "name": "saffar_app",
-    "short_name": "saffar_app",
+    "name": "illay_app",
+    "short_name": "illay_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
